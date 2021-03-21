@@ -8,13 +8,13 @@ The purpose of this analysis was to improve upon the UFOs webpage we created wit
 
 To use our new webpage, it's as simple as entering one or more search criteria into our search fields for date, city, state, country, and shape:
 
-(Image of fields)
+![Search fields](/images/fields.png)
 
-Once the user presses "Enter" on their keyboard, their results will populate in our table:
+Once the user presses "Enter" on their keyboard, their results will populate in our table. In the query depicted here, we searched through the data for triangle shaped UFOs in the state of California:
 
-(Image of search results)
+![Search results](/images/search_results.png)
 
 ## Summary
 
-One drawback of our new design could be that 
+One drawback of our new design could be that the user doesn't receive a message when they query a search for a date, city, state, country, or shape that is not present in the data. The table simply appears empty. I would continue to develop the web app even further to make the interface even more user friendly, first by including such a message. The table data is also missing basic grammar and proper capitalization, so I would correct this as well.
 
